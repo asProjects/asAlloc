@@ -1,5 +1,6 @@
 # asAlloc
-custom allocators in c++
+custom allocators in c++.
+
 The projects aims at creating a custom memory manager to be used in performance critical applications which can reduce overheads due to
 malloc/new by alloacting large chunck of memory up front from heap and using it in a restricted pattern
 
